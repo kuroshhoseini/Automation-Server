@@ -5,5 +5,9 @@
     <RootNamespace>Automation_Server.Web</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Automation-Server.Services\Automation-Server.Services.csproj" />
+  </ItemGroup>
+
 
 </Project>

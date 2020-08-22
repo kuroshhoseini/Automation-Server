@@ -5,4 +5,8 @@
     <RootNamespace>Automation_Server.Common</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Automation-Server.DataAccessLayers\Automation-Server.DataAccessLayers.csproj" />
+  </ItemGroup>
+
 </Project>

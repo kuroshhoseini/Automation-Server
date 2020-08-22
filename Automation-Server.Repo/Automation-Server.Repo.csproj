@@ -5,4 +5,8 @@
     <RootNamespace>Automation_Server.Repo</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Automation-Server.Common\Automation-Server.Common.csproj" />
+  </ItemGroup>
+
 </Project>
